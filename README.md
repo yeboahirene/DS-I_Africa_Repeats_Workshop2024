@@ -1,4 +1,6 @@
-# Group_8: Project Title: Identifying trait-associated tandem repeats from selected African populations
+# Group_8
+
+# Project Title: Identifying trait-associated tandem repeats from selected African populations
 
 # Group Members
 1. Gashanja Kimani,
